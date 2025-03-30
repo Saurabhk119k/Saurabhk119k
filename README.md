@@ -15,6 +15,7 @@
 ![Excel](https://img.shields.io/badge/Excel-%2300A651.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%230075C2.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+📖 **Storytelling with Data** 
 
 ---
 
