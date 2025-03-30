@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/yourusername/yourrepository/main/header-image.png)
+
 
 # 👋 Hi, I'm Saurabh Kumar
 
