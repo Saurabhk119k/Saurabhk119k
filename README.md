@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Saurabh Kumar
 
-🎓 MBA Final Year | IIT Kanpur  
+🎓 MBA in Business Analytics Final Year | IIT Kanpur  
 📊 Aspiring Business Analyst | Data Analyst | Data Consultant  
 🔍 Passionate about Data Analytics, Business Intelligence, and Problem-Solving 
 
