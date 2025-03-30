@@ -1,16 +1,45 @@
-## Hi there 👋
+![Header](https://raw.githubusercontent.com/yourusername/yourrepository/main/header-image.png)
 
-<!--
-**Saurabhk119k/Saurabhk119k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Saurabh Kumar
 
-Here are some ideas to get you started:
+🎓 MBA Final Year | IIT Kanpur  
+📊 Aspiring Business Analyst | Data Analyst | Data Consultant  
+🔍 Passionate about Data Analytics, Business Intelligence, and Problem-Solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-%2300A651.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230075C2.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📈 Projects & Work
+
+### 🔹 Business Intelligence Dashboards
+- Developed Power BI dashboards for sales and marketing insights.
+- Automated reporting processes, reducing manual work by 30%.
+
+### 🔹 Data Analysis & SQL
+- Designed and optimized SQL queries for data extraction and transformation.
+- Created interactive reports with advanced Excel techniques.
+
+### 🔹 Machine Learning & Python
+- Built predictive models to forecast demand and optimize supply chain operations.
+- Utilized data visualization techniques for decision-making insights.
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/saurabhk23/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saurabhk119k)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhk119k@gmail.com)
+
+---
+
+### ✨ Let's turn data into impactful decisions!
+
