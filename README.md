@@ -4,7 +4,8 @@
 
 🎓 MBA Final Year | IIT Kanpur  
 📊 Aspiring Business Analyst | Data Analyst | Data Consultant  
-🔍 Passionate about Data Analytics, Business Intelligence, and Problem-Solving  
+🔍 Passionate about Data Analytics, Business Intelligence, and Problem-Solving 
+I also have past experience in procurement and supply chain in Manufacturing Sector
 
 ---
 
