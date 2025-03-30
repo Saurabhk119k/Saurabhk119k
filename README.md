@@ -2,8 +2,9 @@
 
 # 👋 Hi, I'm Saurabh Kumar
 
-🎓 MBA in Business Analytics Final Year | IIT Kanpur  
+🎓 MBA Final Year | IIT Kanpur  
 📊 Aspiring Business Analyst | Data Analyst | Data Consultant  
+🏭 Experience in Supply Chain & Procurement in the Manufacturing Industry  
 🔍 Passionate about Data Analytics, Business Intelligence, and Problem-Solving 
 
 ---
@@ -38,6 +39,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhk23/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saurabhk119k)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhk119k@gmail.com)
+📞 **Phone:** +91-7696777559 
 
 ---
 
