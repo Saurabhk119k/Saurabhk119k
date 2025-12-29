@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Saurabh Kumar
 
-🎓 MBA in Business Analytics Final Year | IIT Kanpur  
+🎓 MBA in Business Analytics | IIT Kanpur  
 📊 Aspiring Business Analyst | Data Analyst | Data Consultant  
 🏭 Experience in Supply Chain & Procurement in the Manufacturing Industry  
 🔍 Passionate about Data Analytics, Business Intelligence, and Problem-Solving 
